@@ -17,7 +17,7 @@
 ### 🎨 Indian Art and Culture – Educational Web App
 Full-stack app to explore India's art and cultural heritage statewise/regionwise.  
 `React.js` `Spring Boot` `JWT` `MySQL` `Maven`  
-🔗 [Repo Link](#)
+🔗 github.com/AmruthaT23/AmruthaT23/Art_and_Cultural_Educational_App
 
 ### 🛒 Vendor-Based Cart & Booking Module — Mphasis Internship Project
 Built dynamic cart, booking, and feedback modules with real-time pricing, 
